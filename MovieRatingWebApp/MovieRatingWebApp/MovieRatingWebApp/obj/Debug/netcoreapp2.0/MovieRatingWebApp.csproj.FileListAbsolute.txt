@@ -1,0 +1,5 @@
+E:\MovieRatingWebApp-20191116T222651Z-001\MovieRatingWebApp\MovieRatingWebApp\MovieRatingWebApp\obj\Debug\netcoreapp2.0\MovieRatingWebApp.csproj.CoreCompileInputs.cache
+E:\MovieRatingWebApp-20191116T222651Z-001\MovieRatingWebApp\MovieRatingWebApp\MovieRatingWebApp\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+E:\MovieRatingWebApp-20191116T222651Z-001\MovieRatingWebApp\MovieRatingWebApp\MovieRatingWebApp\obj\Debug\netcoreapp2.0\MovieRatingWebApp.AssemblyInfoInputs.cache
+E:\MovieRatingWebApp-20191116T222651Z-001\MovieRatingWebApp\MovieRatingWebApp\MovieRatingWebApp\obj\Debug\netcoreapp2.0\MovieRatingWebApp.AssemblyInfo.cs
+E:\MovieRatingWebApp-20191116T222651Z-001\MovieRatingWebApp\MovieRatingWebApp\MovieRatingWebApp\obj\Debug\netcoreapp2.0\MovieRatingWebApp.csprojAssemblyReference.cache
